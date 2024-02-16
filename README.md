@@ -18,9 +18,7 @@
 
 ### Company Description<a name="company_desc"></a>
 
-
 ### Hack Coaches<a name="hack-coaches"></a>
-
 
 ## What do we bring<a name="what-we-provide"></a>
 The Bosch OGS is a gas analyzer for laboratory use that sets new
@@ -31,14 +29,11 @@ monitor your gas composition inline and thus ensure control over your process
 and your gas. Discover the future of 
 gas testing!
 
-
 ## Sample Scenarios<a name="sample-scenarios"></a>
 
 ### Provided Sample Hack Challenges<a name="provided-sample-hack"></a>
 
-
 ### Other Sample hacks<a name="other-sample-hacks"></a>
-
 
 ## Getting Started<a name="getting-started"></a>
 
