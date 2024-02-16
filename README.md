@@ -1,5 +1,4 @@
 # Optical Gas Spectrometer @ Robert Bosch GmbH
-
 - [About](#about)
     - [Company Description](#company_desc)
     - [Hack Coaches](#hack-coaches)
@@ -11,11 +10,12 @@
     - [Need to know](#need-to-know)
     - [Prebuilt Container Images](#prebuilt-container-images)
 
-
 ## About<a name="about"></a>
+
 
 ### Company Description<a name="company_desc"></a>
 Our products and services are designed to spark enthusiasm, improve quality of life, and help conserve natural resources. We want to deliver top quality and reliability. In short: we want to create technology that is “Invented for life.”
+
 ### Hack Coaches<a name="hack-coaches"></a>
 
 ## What do we bring<a name="what-we-provide"></a>
