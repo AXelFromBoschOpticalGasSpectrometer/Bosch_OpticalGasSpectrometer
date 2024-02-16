@@ -1,7 +1,5 @@
 # Optical Gas Spectrometer @ Robert Bosch GmbH
 
-![](pictures/SICK_SensorIntelligence.png)
-
 - [About](#about)
     - [Company Description](#company_desc)
     - [Hack Coaches](#hack-coaches)
