@@ -1,4 +1,4 @@
-# Robert Bosch GmbH
+# Optical Gas Spectrometer @ Robert Bosch GmbH
 
 ![](pictures/SICK_SensorIntelligence.png)
 
