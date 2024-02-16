@@ -23,6 +23,14 @@
 
 
 ## What do we bring<a name="what-we-provide"></a>
+The Bosch OGS is a gas analyzer for laboratory use that sets new
+ sets new standards. As a genuine multi-gas analyzer, it offers a sustainable 
+sustainable solution for many applications.
+Rely on completely new possibilities with the OGS to monitor your gas composition inline 
+monitor your gas composition inline and thus ensure control over your process 
+and your gas. Discover the future of 
+gas testing!
+
 
 ## Sample Scenarios<a name="sample-scenarios"></a>
 
